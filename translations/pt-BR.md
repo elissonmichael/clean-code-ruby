@@ -180,7 +180,7 @@ end
 Argumentos padrões frequentemente são mais limpos do que curto-circuitos.
 Esteja ciente que se você usá-los, suas funções só irão fornecer valores
 padrões para argumentos indefinidos. Outros valores "falsos" como `''`, `""`,
-`false` and `nil` não serão substituídos por um valor padrão.
+`false` e `nil` não serão substituídos por um valor padrão.
 
 **Ruim:**
 ```ruby
