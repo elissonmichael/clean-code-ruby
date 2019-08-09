@@ -209,7 +209,7 @@ Um ou dois argumentos é o caso ideal, três deveria ser evitado se possível.
 Qualquer coisa mais do que isso deveria ser estabilizado. Geralmente, se você
 tem mais do que dois argumentos então a sua função está tentando fazer demais.
 Em casos onde ela não está, na maioria das vezes um objeto de nível mais alto
-será suficiente como um argumento. Ou você pode passa informações para a função
+será suficiente como um argumento. Ou você pode passar informações para a função
 através de variáveis de instância.
 
 Uma vez que Ruby permite que você crie objetos em tempo de execução, sem um
