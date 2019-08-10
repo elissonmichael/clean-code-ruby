@@ -410,7 +410,7 @@ Conseguir a abstração certa é crítico, é por ísso que você deveria seguir
 princípios SOLID explicado na seção de **Classes**. Abstrações ruins podem ser
 piores do que código duplicado, então seja cauteloso! Tendo dito isso, se você
 conseguir criar uma boa abstração, crie! Não se repita, caso contrário você vai
-se encontrar atualizando vários lugares sempre que vocÊ quiser mudar uma coisa.
+se encontrar atualizando vários lugares sempre que você quiser mudar uma coisa.
 
 **Ruim:**
 ```ruby
