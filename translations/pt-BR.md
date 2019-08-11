@@ -209,7 +209,7 @@ Um ou dois argumentos é o caso ideal, três deveria ser evitado se possível.
 Qualquer coisa mais do que isso deveria ser estabilizado. Geralmente, se você
 tem mais do que dois argumentos então a sua função está tentando fazer demais.
 Em casos onde ela não está, na maioria das vezes um objeto de nível mais alto
-será suficiente como um argumento. Ou você pode passa informações para a função
+será suficiente como um argumento. Ou você pode passar informações para a função
 através de variáveis de instância.
 
 Uma vez que Ruby permite que você crie objetos em tempo de execução, sem um
@@ -410,7 +410,7 @@ Conseguir a abstração certa é crítico, é por ísso que você deveria seguir
 princípios SOLID explicado na seção de **Classes**. Abstrações ruins podem ser
 piores do que código duplicado, então seja cauteloso! Tendo dito isso, se você
 conseguir criar uma boa abstração, crie! Não se repita, caso contrário você vai
-se encontrar atualizando vários lugares sempre que vocÊ quiser mudar uma coisa.
+se encontrar atualizando vários lugares sempre que você quiser mudar uma coisa.
 
 **Ruim:**
 ```ruby
